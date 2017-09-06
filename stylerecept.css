@@ -1,0 +1,44 @@
+ul {
+  list-style: none;
+}
+
+ol {
+  list-style: none;
+}
+
+h1 {
+  color: white;
+  font-size: 40px
+  font-style: italic;
+}
+
+h2 {
+  color: white;
+  font-size: 40px
+  font-style: italic;
+}
+
+h3 {
+  color: white;
+  font-size: 40px
+  font-style: italic;
+}
+
+h4 {
+  color: white;
+  font-size: 40px;
+  font-style: italic;
+}
+
+body {
+  background-image:url('BrownB.jpg');
+  font-style: italic;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+p.italic {
+  color: white;
+  font-size: 20px;
+  font-style: italic;
+}
